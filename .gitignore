@@ -24,6 +24,4 @@ dist-ssr
 *.sw?
 .vite-source-tags.js
 .vercel
-.tsconfig.app.json
-.tsconfig.json
-.tsconfig.node.json
+
